@@ -1,0 +1,2 @@
+# StatLight_Auto_ErfanGSI
+一个全自动跑ErfanGSI的工具，编辑Build_ErfanGSI_Auto即可
